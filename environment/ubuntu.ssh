@@ -1,0 +1,8 @@
+sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo apt-get install build-essential module-assistant -y
+sudo m-a prepare
+sudo apt-get install wget dos2unix htop cmake -y
+sudo apt-get install openssh-server -y
+sudo /etc/init.d/ssh restart
+
