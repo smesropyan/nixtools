@@ -134,7 +134,7 @@
 # c.NotebookApp.tornado_settings = traitlets.Undefined
 
 # The directory to use for notebooks and kernels.
-c.NotebookApp.notebook_dir = u'/Users/smesropyan/projects/sm-projects/'
+c.NotebookApp.notebook_dir = u'/home/smesropyan/'
 
 # The kernel manager class to use.
 # c.NotebookApp.kernel_manager_class = <class 'notebook.services.kernels.kernelmanager.MappingKernelManager'>
